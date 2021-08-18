@@ -19,3 +19,7 @@ If a tile is placed exactly on a wall, the tile is not masked. This is because i
 ### Incompatibility with Perfect Vision
 
 Due to how Perfect Vision modifies the entirety of the canvas, Tile Mask is not compatible with Perfect Vision. This is sadly not on Tile Mask's side, as I cannot change how Perfect vision is set up.
+
+## Special Thanks
+
+Many thanks to theripper93, as he continues to be an invaluable addition to our community. 
